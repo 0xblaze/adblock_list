@@ -5,10 +5,10 @@ lgad.cjpowercast.com.edgesuite.net
 smartclip.com
 smartclip.net
 smartshare.lgtvsdp.com
-us.ad.lgsmartad.com
-us.ibs.lgappstv.com
-us.info.lgsmartad.com
-us.lgtvsdp.com
+in.ad.lgsmartad.com
+in.ibs.lgappstv.com
+in.info.lgsmartad.com
+in.lgtvsdp.com
 in.lgtvsdp.com
 us.rdx2.lgtvsdp.com
 in.rdx2.lgtvsdp.com
