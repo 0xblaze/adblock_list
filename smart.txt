@@ -14,3 +14,7 @@ us.rdx2.lgtvsdp.com
 in.rdx2.lgtvsdp.com
 yumenetworks.com
 aic-ngfts.lge.com
+
+
+#yt
+i1.ytimg.com
