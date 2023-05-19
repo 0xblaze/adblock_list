@@ -17,3 +17,4 @@
 
 # [youtube]
 0.0.0.0 i1.ytimg.com
+0.0.0.0 1.ytimg.com
