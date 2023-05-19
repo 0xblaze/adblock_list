@@ -1,17 +1,19 @@
-ad.lgappstv.com
-ibis.lgappstv.com
-lgad.cjpowercast.com.edgesuite.net
-smartclip.com
-smartclip.net
-smartshare.lgtvsdp.com
-in.ad.lgsmartad.com
-in.ibs.lgappstv.com
-in.info.lgsmartad.com
-in.lgtvsdp.com
-in.lgtvsdp.com
-us.rdx2.lgtvsdp.com
-in.rdx2.lgtvsdp.com
-yumenetworks.com
-aic-ngfts.lge.com
+# [LG TV]
+0.0.0.0 ad.lgappstv.com
+0.0.0.0 ibis.lgappstv.com
+0.0.0.0 lgad.cjpowercast.com.edgesuite.net
+0.0.0.0 smartclip.com
+0.0.0.0 smartclip.net
+0.0.0.0 smartshare.lgtvsdp.com
+0.0.0.0 in.ad.lgsmartad.com
+0.0.0.0 in.ibs.lgappstv.com
+0.0.0.0 in.info.lgsmartad.com
+0.0.0.0 in.lgtvsdp.com
+0.0.0.0 in.lgtvsdp.com
+0.0.0.0 us.rdx2.lgtvsdp.com
+0.0.0.0 in.rdx2.lgtvsdp.com
+0.0.0.0 yumenetworks.com
+0.0.0.0 aic-ngfts.lge.com
 
-i1.ytimg.com
+# [youtube]
+0.0.0.0 i1.ytimg.com
