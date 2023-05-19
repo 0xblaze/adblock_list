@@ -9,6 +9,8 @@ us.ad.lgsmartad.com
 us.ibs.lgappstv.com
 us.info.lgsmartad.com
 us.lgtvsdp.com
+in.lgtvsdp.com
 us.rdx2.lgtvsdp.com
+in.rdx2.lgtvsdp.com
 yumenetworks.com
 aic-ngfts.lge.com
